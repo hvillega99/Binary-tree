@@ -1,2 +1,2 @@
 # Binary tree.
-###Implementation of a binary tree in java.
+### Implementation of a binary tree in java.
